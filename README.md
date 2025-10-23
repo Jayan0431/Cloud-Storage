@@ -1,4 +1,3 @@
 # ☁️ Cloud Storage Bucket
 
-Cloud storage buckets are used by organizations to store files like images, backups, and logs.
-It enables secure, scalable, and global access to data from anywhere.
+Cloud storage is used to store and share files online, such as project assets, backups, and media. It helps businesses and developers access data anytime, anywhere, and collaborate easily without worrying about local storage limits.
